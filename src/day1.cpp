@@ -8,8 +8,6 @@
 const std::string TARGET_FILE = "src/input/day1.txt";
 const uint32_t LINE_COUNT = 1000;
 
-bool asc_comp(int32_t x, int32_t y) { return x >= y; }
-
 // g++ src/day1.cpp -o out/day1.out && out/day1.out
 int main()
 {
