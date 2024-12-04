@@ -5,7 +5,7 @@ My answers for [Advent of Code 2024](https://adventofcode.com/2024):
 - [x] [Day 1](src/day1.cpp)
 - [x] [Day 2](src/day2.cpp)
 - [x] [Day 3](src/day3.cpp)
-- [ ] Day 4
+- [x] [Day 4](src/day4.cpp)
 - [ ] Day 5
 - [ ] Day 6
 - [ ] Day 7
